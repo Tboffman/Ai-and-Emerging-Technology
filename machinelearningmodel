@@ -1,0 +1,8 @@
+I learned that teachable machines uses bias points from the data points that it assesses based on the images, audio, and poses. 
+This could be a valuable application for image detection. I chose to use a fork and spoon
+I was trying to see if this would be something that could be used for a utensil organizer in a commercial kitchen setting
+From what i learned within my model is that you have to have enough data for the machine to learn from enough points to not get confused with backgrounds that might be in both pictures
+When i first setup my model i only took 50 pictures of each subject. I realized quickly i didnt give the application enough data points once it had over 400 pictures it got more accurate.
+Once i loaded up enough pictures i think that the application reminded me of the reinforcement learning methods. I feel that this application could also lead to unwarranted bias depending on how many items have the same background or same colors.
+From what i learned provide enough data and variables to give definitive points of data to the training model. This allows for an effcient and practical model that can be used to train other models.
+
